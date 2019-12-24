@@ -22,5 +22,5 @@ This network also tends to focus more and more on content words:
 ### Global visualization
 ![Alt text](./resources/viz.png?raw=true "Title")
 
-The last image can be generated from any sentence input inside the notebook [visualization](./resources/vizualization.ipynb).
+The last image can be generated from any sentence input inside the notebook [visualization](./visualization.ipynb).
 
